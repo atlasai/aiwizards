@@ -53,11 +53,4 @@ CodinGame is a bit different from the other websites because instead of simply s
 
 Although this website is different than typical competitive programming websites such as the ones mentioned above, it is still popular amongst programmers who enjoy solving challenges and taking part in contests.
 
-<script>
-    var links = document.querySelectorAll( '.post-content a' );  
-    for (var i = 0, length = links.length; i < length; i++) {  
-        if (links[i].hostname != window.location.hostname) {
-            links[i].target = '_blank';
-        }
-    }
-</script>
+
