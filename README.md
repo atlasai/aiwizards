@@ -1,5 +1,6 @@
 # aiwizards
-Code Challenge test references other than the wizards weekly challenges(which are usually in the <a href="https://github.com/llSourcell">||source|| github repo's</a>, will be following along with the core of <a href="https://github.com/llSourcell/The_Math_of_Intelligence">The Math of Intelligence</a>. Also checkout <a href="https://gumroad.com/">Gumroad</a> to help you monitize some of your app code ideas.
+Code Challenge test references other than the wizards weekly challenges(which are usually in the <a href="https://github.com/llSourcell">||source|| github repo's</a>, we will be following along with the core of <a href="https://github.com/llSourcell/The_Math_of_Intelligence">The Math of Intelligence</a>. Also checkout <a href="https://gumroad.com/">Gumroad</a> to help you monitize some of your app code ideas.
+
 
 1. <a href="https://www.topcoder.com/challenges/?pageIndex=1" target="_blank">TopCoder</a>
 
@@ -52,5 +53,10 @@ Sphere Online Judge (SPOJ) is an online judge that provides over 20k coding chal
 CodinGame is a bit different from the other websites because instead of simply solving coding challenges in an editor, you actually take part in writing the code for game that you play directly online. You can see a list of games currently offered here and an example of one here. The game comes with a problem description, test cases, and an editor where you can write your code in one of 20+ programming languages.
 
 Although this website is different than typical competitive programming websites such as the ones mentioned above, it is still popular amongst programmers who enjoy solving challenges and taking part in contests.
+-------------------------------------------------------------------------------------------------------------------
 
-
+Coding challenges on ||Source||
+June 16,2017
+write a simple encryption algorithm to encrypt a dataset of your choice such that to decrypt it, you must have the generated key. You can use any algorithm you'd like, some possible suggestions are AES and PGP. Bonus points if your algorithm is more complex, like SHA-256.
+TypicalHog's winning code:
+https://github.com/TypicalHog/THCrypt
