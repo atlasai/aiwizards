@@ -1,5 +1,5 @@
 # aiwizards
-Code Challenge test
+Code Challenge test references other than the wizards weekly challenges.
 
 1. <a href="https://www.topcoder.com/challenges/?pageIndex=1">TopCoder</a>
 
@@ -7,7 +7,7 @@ TopCoder is one of the original platforms for competitive programming online. It
 
 The top ranked users on TopCoder are very good competitive programmers and regularly compete in programming competitions. The top ranked user maintains his own blog titled ALGORITHMS WEEKLY BY PETR MITRICHEV where he writes about coding competitions, algorithms, math, and more.
 
-2. Coderbyte
+2. <a href="https://coderbyte.com/">Coderbyte</a>
 
 Coderbyte provides 200+ coding challenges you can solve directly online in one of 10 programming languages (check out this example). The challenges range from easy (finding the largest word in a string) to hard (print the maximum cardinality matching of a graph).
 
