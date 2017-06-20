@@ -47,8 +47,17 @@ They also have a Mock Interview section that is specifically for job interview p
 
 Sphere Online Judge (SPOJ) is an online judge that provides over 20k coding challenges. You are able to submit your code in an online editor. SPOJ also hosts their own contests and has an area for users to discuss coding challenges. They do not currently provide any official solutions or editorials like some other websites do though.
 
-10. [CodinGame](https://www.codingame.com target="_blank")
+10. <a href="https://www.codingame.com" target="_blank">CodinGame</a>
 
 CodinGame is a bit different from the other websites because instead of simply solving coding challenges in an editor, you actually take part in writing the code for game that you play directly online. You can see a list of games currently offered here and an example of one here. The game comes with a problem description, test cases, and an editor where you can write your code in one of 20+ programming languages.
 
 Although this website is different than typical competitive programming websites such as the ones mentioned above, it is still popular amongst programmers who enjoy solving challenges and taking part in contests.
+
+<script>
+    var links = document.querySelectorAll( '.post-content a' );  
+    for (var i = 0, length = links.length; i < length; i++) {  
+        if (links[i].hostname != window.location.hostname) {
+            links[i].target = '_blank';
+        }
+    }
+</script>
