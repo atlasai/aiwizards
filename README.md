@@ -1,5 +1,5 @@
 # aiwizards
-Code Challenge test references other than the wizards weekly challenges.
+Code Challenge test references other than the wizards weekly challenges. There is a link above to the original article, for the sites below.
 
 1. <a href="https://www.topcoder.com/challenges/?pageIndex=1">TopCoder</a>
 
