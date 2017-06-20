@@ -1,5 +1,5 @@
 # aiwizards
-Code Challenge test references other than the wizards weekly challenges(which are usually in the <a href="https://github.com/llSourcell>||source|| github repo's</a>. There is a link above to the original article, for the sites below. Also checkout <a href="https://gumroad.com/">Gumroad</a> to help you monitize some of your app code ideas.
+Code Challenge test references other than the wizards weekly challenges(which are usually in the <a href="https://github.com/llSourcell">||source|| github repo's</a>. There is a link above to the original article, for the sites below. Also checkout <a href="https://gumroad.com/">Gumroad</a> to help you monitize some of your app code ideas.
 
 1. <a href="https://www.topcoder.com/challenges/?pageIndex=1" target="_blank">TopCoder</a>
 
