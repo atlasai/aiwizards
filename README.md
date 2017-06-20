@@ -1,7 +1,7 @@
 # aiwizards
 Code Challenge test
 
-1. TopCoder
+1. <a href="https://www.topcoder.com/challenges/?pageIndex=1">TopCoder</a>
 
 TopCoder is one of the original platforms for competitive programming online. It provides a list of algorithmic challenges from the past that you can complete on your own directly online using their code editor. Their popular Single Round Matches are offered a few times per month at a specific time where you compete against others to solve challenges the fastest with the best score.
 
