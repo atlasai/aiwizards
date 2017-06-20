@@ -13,7 +13,7 @@ Coderbyte provides 200+ coding challenges you can solve directly online in one o
 
 They also provide a collection of algorithm tutorials, introductory videos, and interview preparation courses. Unlike HackerRank and other similar websites, you are able to view the solutions other users provide for any challenge aside from the official solutions posted by Coderbyte.
 
-3. <a href="https://projecteuler.net/" target="_blank"k>Project Euler</a>
+3. <a href="https://projecteuler.net/" target="_blank">Project Euler</a>
 
 Project Euler provides a large collection of challenges in the domain of computer science and mathematics. The challenges typically involve writing a small program to figure out the solution to a clever mathematical formula or equation, such as finding the sum of digits of all numbers preceding each number in a series.
 
