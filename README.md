@@ -1,5 +1,5 @@
 # aiwizards
-Code Challenge test references other than the wizards weekly challenges(which are usually in the <a href="https://github.com/llSourcell">||source|| github repo's</a>, we will be following along with the core of <a href="https://github.com/llSourcell/The_Math_of_Intelligence">The Math of Intelligence</a>. Also checkout <a href="https://gumroad.com/">Gumroad</a> to help you monitize some of your app code ideas.
+Code Challenge test references other than the wizards weekly challenges(which are usually in the <a href="https://github.com/llSourcell">||source|| github repo's</a>, we will be following along with the core of <a href="https://github.com/llSourcell/The_Math_of_Intelligence">The Math of Intelligence</a> <a href="http://aiweb.biz/2017/06/27/the-math-of-intelligence/">here</a>. Also checkout <a href="https://gumroad.com/">Gumroad</a> to help you monitize some of your app code ideas.
 
 
 1. <a href="https://www.topcoder.com/challenges/?pageIndex=1" target="_blank">TopCoder</a>
